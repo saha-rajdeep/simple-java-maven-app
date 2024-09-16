@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ * Testing CodeGuru
  */
 public class App
 {
